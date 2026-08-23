@@ -17,3 +17,4 @@ Page statique prête à être publiée avec GitHub Pages.
 - Calcul de X, Y et du déplacement des éléments à griffer CSRR
 - Agrément et VGP des machines TSO
 - Calcul de portée moyenne
+- Recherche IN / IG / autre
