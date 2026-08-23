@@ -1,17 +1,19 @@
-# Portal Catenária
+# Portail Caténaire
 
-Página estática pronta para GitHub Pages.
+Page statique prête à être publiée avec GitHub Pages.
 
-## Publicar
+## Publication
 
-1. Crie um repositório novo no GitHub.
-2. Carregue todos os ficheiros desta pasta para a raiz do repositório.
-3. Abra **Settings → Pages**.
-4. Em **Build and deployment**, escolha **Deploy from a branch**.
-5. Selecione **main**, depois **/(root)**, e carregue em **Save**.
+1. Créez un nouveau dépôt sur GitHub.
+2. Ajoutez tous les fichiers de ce dossier à la racine du dépôt.
+3. Ouvrez **Settings → Pages**.
+4. Dans **Build and deployment**, choisissez **Deploy from a branch**.
+5. Sélectionnez **main**, puis **/(root)**, et cliquez sur **Save**.
 
-## Projetos incluídos
+## Projets inclus
 
-- Recherche Plans
-- Calcul alignement porteur en courbe CSRR
-- Calcul X et Y et déplacement élément griffer CSRR
+- Recherche de plans
+- Calcul de l'alignement du porteur en courbe CSRR
+- Calcul de X, Y et du déplacement des éléments à griffer CSRR
+- Agrément et VGP des machines TSO
+- Calcul de portée moyenne
